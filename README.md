@@ -1,6 +1,9 @@
-# twobrothersrentals1.github.io
 # Two Brothers Rentals
 
-This repository hosts the official website for Two Brothers Rentals.
+<p align="center">
+  <img src="assets/logos.png" alt="Two Brothers Rentals Logo" width="250">
+</p>
 
-The site provides basic business information and contact details
+Two Brothers Rentals provides appliance rentals, specializing in washers and dryers.
+
+Services include delivery, installation, and monthly recurring rentals with automatic payment.
