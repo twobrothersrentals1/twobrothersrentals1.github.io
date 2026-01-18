@@ -1,7 +1,7 @@
 # Two Brothers Rentals
 
 <p align="center">
-  <img src="assets/logos.png" alt="Two Brothers Rentals Logo" width="250">
+  <img src="assets/logo.png" alt="Two Brothers Rentals Logo" width="250">
 </p>
 
 Two Brothers Rentals provides appliance rentals, specializing in washers and dryers.
